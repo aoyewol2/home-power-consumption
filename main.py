@@ -1,9 +1,7 @@
 # Ashley Oyewole
 # CS 1026 Assignment
 # October 6th, 2021
-###
-# Code begins here
-###
+
 # Import system to make sys.exit(0) halt 0 input.
 import sys
 
@@ -20,7 +18,6 @@ while process == False:
     onPeak = (float(input('Enter kwh during On Peak period: ')))
   
     # Input kwh during Mid Peak periods and add all periods to get totalUsage value before discounts and and taxes.
-  
     midPeak = float(input('Enter kwh during Mid Peak period: '))
   
     totalUsage = (offPeak + onPeak + midPeak)

@@ -1,4 +1,4 @@
-# Ashley Oyewole
+# Ashley O
 # CS 1026 Assignment
 # October 6th, 2021
 
